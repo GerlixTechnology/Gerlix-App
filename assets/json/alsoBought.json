@@ -1,0 +1,46 @@
+[
+    {
+        "title": "Sweet fresh stawberry",
+        "type": "fruit",
+        "description": "Sweet fresh stawberry on the wooden table",
+        "filename": "https://raw.githubusercontent.com/wedeploy-examples/supermarket-web-example/master/ui/assets/images/1.jpg",
+        "height": 450,
+        "width": 299,
+        "price": 29.45,
+        "rating": 4,
+        "productId": -1304751779
+    },
+    {
+        "title": "Asparagus",
+        "type": "vegetable",
+        "description": "Asparagus with ham on the wooden table",
+        "filename": "https://raw.githubusercontent.com/wedeploy-examples/supermarket-web-example/master/ui/assets/images/2.jpg",
+        "height": 450,
+        "width": 299,
+        "price": 18.95,
+        "rating": 3,
+        "productId": 540768467
+    },
+    {
+        "title": "Hazelnut in black ceramic bowl",
+        "type": "vegetable",
+        "description": "Hazelnut in black ceramic bowl on old wooden background. forest wealth. rustic style. selective focus",
+        "filename": "https://raw.githubusercontent.com/wedeploy-examples/supermarket-web-example/master/ui/assets/images/7.jpg",
+        "height": 450,
+        "width": 301,
+        "price": 27.35,
+        "rating": 0,
+        "productId": -825363891
+    },
+    {
+        "title": "Fresh stawberry",
+        "type": "fruit",
+        "description": "Sweet fresh stawberry on the wooden table",
+        "filename": "https://raw.githubusercontent.com/wedeploy-examples/supermarket-web-example/master/ui/assets/images/8.jpg",
+        "height": 600,
+        "width": 399,
+        "price": 28.59,
+        "rating": 4,
+        "productId": 1140878989
+    }
+]

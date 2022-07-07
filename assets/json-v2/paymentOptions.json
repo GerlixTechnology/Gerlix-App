@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Credit Card",
+        "type": "visa",
+        "card_no": "1234",
+        "expired_date": "01/23"
+    },
+    {
+        "name": "Credit Card",
+        "type": "amex",
+        "card_no": "7890",
+        "expired_date": "01/23"
+    }
+]

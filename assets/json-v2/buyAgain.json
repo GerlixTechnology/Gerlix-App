@@ -1,0 +1,137 @@
+[
+    {
+        "productId": 488,
+        "title": "Maybelline Fit Me Bronzer",
+        "rating": 4.5,
+        "filename": "https://d3t32hsnjxo7q6.cloudfront.net/i/d4f7d82b4858c622bb3c1cef07b9d850_ra,w158,h184_pa,w158,h184.png",
+        "type": "bronzer",
+        "price": 10.29,
+        "description": "Why You'll Love It\n\nLightweight pigments blend easily and wear evenly\nProvides a natural, fade-proof bronzed color that leaves skin the way it was meant to be...fresh, breathing and natural\n\nFor Best Results: For soft, natural look, brush along cheekbone, sweeping upward."
+    },
+    {
+        "productId": 439,
+        "title": "Maybelline Fit Me Blush",
+        "rating": 4.8,
+        "filename": "https://d3t32hsnjxo7q6.cloudfront.net/i/53d5f825461117c0d96946e1029510b0_ra,w158,h184_pa,w158,h184.png",
+        "type": "blush",
+        "price": 10.29,
+        "description": "Maybelline Fit Me Blush has lightweight pigments blend easily and wear evenly. It provides a natural, fade-proof cheek color that leaves skin the way it was meant to be...fresh, breathing, and natural.\n\nFor Best Results: For soft, natural look, brush along cheekbone, sweeping upward."
+    },
+    {
+        "productId": 366,
+        "title": "Maybelline Mineral Power Natural Perfecting Powder Foundation",
+        "rating": 3.9,
+        "filename": "https://d3t32hsnjxo7q6.cloudfront.net/i/c77ad2da76259cfd67a9a9432f635bfb_ra,w158,h184_pa,w158,h184.png",
+        "type": "foundation",
+        "price": 14.99,
+        "description": "Why You'll Love ItMineral Power Powder Foundation with micro-minerals provides a more natural, healthier, luminous look.\nDiscover the natural power of micro-minerals:\n100% natural mica creates a more natural luminosity Complete, yet refined coverage Provides buildable, even coverage Preservative-free, talc-free, oil-free, fragrance-free Medium to Full Coverage"
+    },
+    {
+        "productId": 339,
+        "title": "Maybelline Dream Wonder Liquid Touch Foundation",
+        "rating": null,
+        "filename": "https://d3t32hsnjxo7q6.cloudfront.net/i/ccb99ad6ac7f31a2a73454bdbda01d99_ra,w158,h184_pa,w158,h184.jpeg",
+        "type": "foundation",
+        "price": 14.99,
+        "description": "Maybelline Dream Wonder Liquid Touch Foundation's breakthrough texture fuses with skin. A finish so impeccable, yet undetectable.Features:Exclusive dropperMedium to full coverage, ideal for normal skinFor Best Results: Shake well. Unscrew cap. Holding dropper vertically, allow foundation to drop onto fingertip. Apply to face as usual."
+    },
+    {
+        "productId": 291,
+        "title": "Maybelline Eye Studio Color Tattoo 24HR Cream Gel Shadow Leather",
+        "rating": 4.3,
+        "filename": "https://d3t32hsnjxo7q6.cloudfront.net/i/cf21d194ab14ee3c527d02682c358a7a_ra,w158,h184_pa,w158,h184.png",
+        "type": "eyeshadow",
+        "price": 8.99,
+        "description": "\n                       \n\tSo rich. So creamy. Only Maybelline's cream gel eye shadow formula gets the look of couture leather so right!\n\t\t\n\t\t\t\n\t\t\t\tDare to wear Maybelline Color Tattoo leather 24HR long wear eye shadow.Features: Ink technology creates 24HR wear shadow for our most intense, long-lasting color saturationCream eye shadow formula glides on without creasing and keeps color vibrantOphthalmologist-tested.  Safe for sensitive eyes and contact lens wearers\n\t\tShade Range: \n\t\n\n                    \n                "
+    },
+    {
+        "productId": 232,
+        "title": "Maybelline Line Express Eyeliner",
+        "rating": 4.5,
+        "filename": "https://d3t32hsnjxo7q6.cloudfront.net/i/4e88f928ad91c88e2ecb8596431ce799_ra,w158,h184_pa,w158,h184.png",
+        "type": "eyeliner",
+        "price": 7.29,
+        "description": "Maybelline Line Express Eyeliner's intense color formula + smart tip smudger makes this liner glide on smoothly and is easy to apply with just one stroke.Features: Creamy formula delivers intense colorContour smudger makes blending easyAll-day wearSafe for sensitive eyes and ophthalmologist-testedContact lens safe"
+    },
+    {
+        "productId": 179,
+        "title": "Maybelline EyeStudio Master Precise Ink Pen Eyeliner",
+        "rating": 4,
+        "filename": "https://d3t32hsnjxo7q6.cloudfront.net/i/6edd2cadd1894a94f264ceb19f3d344b_ra,w158,h184_pa,w158,h184.png",
+        "type": "eyeliner",
+        "price": 11.99,
+        "description": "Experience the new generation of liquid liner from Maybelline!              Ink technology keeps pigments super-saturatedSpring cap keeps the formula freshMost precise line for lasting intensity                                                    Safe for sensitive eyes and ophthalmologist-testedContact lens safeFor Best Results: 1. Start at inner corner of upper eye. Flare outward. 2. Create the sharpest design, uniquely your own."
+    },
+    {
+        "productId": 170,
+        "title": "Maybelline Eye Studio Lasting Drama Gel Eyeliner",
+        "rating": 4.4,
+        "filename": "https://d3t32hsnjxo7q6.cloudfront.net/i/2054f702d243c286219e0330af836bf5_ra,w158,h184_pa,w158,h184.png",
+        "type": "eyeliner",
+        "price": 11.99,
+        "description": "Maybelline Eye Studio Lasting Drama Gel Eyeliner gives you smudge-proof lines that are waterproof for 24 hours. Features:            Oil-free formula holds highly concentrated pigments in a clear gel baseSmudge-proof and waterproof for 24 hoursMost intense line for lasting drama                                                    Safe for sensitive eyes and ophthalmologist-testedContact lens safe\n\t\tRemoves easily with Expert Eyes® Moisturizing Eye Makeup Remover.Maybelline Eye Studio Lasting Drama Gel Eyeliner is one of our 10 Makeup Must Haves.  See the full list on The Well.  "
+    },
+    {
+        "productId": 89,
+        "title": "Maybelline Color Sensational Rebel Bloom Lipcolour ",
+        "rating": 3,
+        "filename": "https://d3t32hsnjxo7q6.cloudfront.net/i/fb9e6485500135d94163577da4c3579b_ra,w158,h184_pa,w158,h184.png",
+        "type": "lipstick",
+        "price": 9.99,
+        "description": "\n                       \n\tMaybelline Color Sensational® Rebel Bloom lipstick offers vivacious pastels in a super-saturated lipcolour. Enjoy the kicky bouquet of lip colors in \npinks, reds and mauves.  Features:Super-saturated pigments take fresh picked pastels to a new bright\nNever dull, washed out or shy\nHoney nectar adds a sumptuous feel\n\n\t\tApplication: Apply lipcolor starting in the center of your upper lip. Work\n from the center to the outer edges of your lip, following the contours \nof your mouth. Then glide across the entire bottom lip.\n\n\t\t\n\t\n\n                    "
+    },
+    {
+        "productId": 72,
+        "title": "Maybelline Color Sensational Vivids Lipcolour",
+        "rating": 5,
+        "filename": "https://d3t32hsnjxo7q6.cloudfront.net/i/0d31f41c37fd18dfc02daa1671719378_ra,w158,h184_pa,w158,h184.png",
+        "type": "lipstick",
+        "price": 9.99,
+        "description": "With Maybelline Colour Sensational Vivids Lipcolour bright goes gorgeous, never garish!Get brighter color from Maybelline's exclusive vivid pigments.﻿ Plus get creamier feel from nourishing honey nectar.﻿ Features: Be bright and gorgeousExclusive Vivid colors are brighterHoney nectar formula nourishes lips﻿For Best Results: Apply lipcolor starting in the center of your upper lip. Work from the center to the outer edges of your lip, following the contours of your mouth. Then glide across the entire bottom lip.﻿Shade Range: "
+    },
+    {
+        "productId": 42,
+        "title": "Maybelline Volum'Express Falsies Big Eyes Mascara",
+        "rating": 4.5,
+        "filename": "https://d3t32hsnjxo7q6.cloudfront.net/i/a28e1387642c86f2d2e0cf446b2137aa_ra,w158,h184_pa,w158,h184.png",
+        "type": "mascara",
+        "price": 12.99,
+        "description": "2 brushes. 2x more impact!Now get bigger eyes with 360 degrees of false \nlash glam volume! Upper lashes get over-the-top glam with the upper \nbrush, while the lower brush grabs every tiny lower lash for a full \ncircle effect.For best results: Apply the Upper Brush against the top lid lashes and sweep from\n root to tip until a clean, voluminous look is achieved, followed by the\n lower lash line using the lower Micro Brush. Do not let dry between \ncoats. Removes easily with soap and water or with Maybelline® Clean \nExpress!™ Classic Eye Makeup Remover.\n"
+    },
+    {
+        "productId": 23,
+        "title": "Maybelline Great Lash Big Mascara",
+        "rating": 4,
+        "filename": "https://d3t32hsnjxo7q6.cloudfront.net/i/0795abd7feaf855f88055e181652d65a_ra,w158,h184_pa,w158,h184.jpeg",
+        "type": "mascara",
+        "price": 7.79,
+        "description": "Live Big! Great Lash Big has a Bigger Brush for Great Big Live-It-Up Lashes!\n\nThe Great Big Brush provides a bigger, bolder lash effect\nGreat buildable formula still conditions as it thickens with even greater intensity\nNo clumps or globs\n"
+    },
+    {
+        "productId": 20,
+        "title": "Maybelline Great Lash Mascara",
+        "rating": 4.2,
+        "filename": "https://d3t32hsnjxo7q6.cloudfront.net/i/6b4d354890177a73b4d6630d723c2f21_ra,w158,h184_pa,w158,h184.jpeg",
+        "type": "mascara",
+        "price": 7.79,
+        "description": "Great Lash Waterproof Mascara conditions as it thickens lashes. The lash-doubling formula glides on smoothly to build great-looking smudge-proof lashes. The lash-building brush makes it easy to get a full lash look without clumps. Hypoallergenic and contact lens safe.\nAllure 2008 Reader's Choice Award Winner for drugstore mascara.\n"
+    },
+    {
+        "productId": 14,
+        "title": "Maybelline Volum' Express Colossal Mascara",
+        "rating": 4.5,
+        "filename": "https://d3t32hsnjxo7q6.cloudfront.net/i/5d6e0d96f6dedbc3aadd88d9403cb26e_ra,w158,h184_pa,w158,h184.jpeg",
+        "type": "mascara",
+        "price": 9.79,
+        "description": "Why You'll Love It\n\nCreates 9X the volume, instantly.\nPatented MegaBrush + Collagen Formula plump lashes one by one \nDramatic Volume with no clumps \nWashable \n"
+    },
+    {
+        "productId": 11,
+        "title": "Maybelline Volum' Express The Rocket Mascara",
+        "rating": null,
+        "filename": "https://d3t32hsnjxo7q6.cloudfront.net/i/0b04408a84154f14800e4c9477f8a924_ra,w158,h184_pa,w158,h184.png",
+        "type": "mascara",
+        "price": 10.99,
+        "description": "Explosive Volume in Rocket Time! 8X Bigger, Smoother.\n\nNow, the most explosive, beautiful lashes ever! Maybelline's patented supersonic \nbrush with micro bristles loads on big, sleek volume instantly.\n\nThe fast-glide formula keeps lashes smooth. Zero clumps!"
+    }
+]

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "749689084162",
+    "project_id": "gerlix-app",
+    "storage_bucket": "gerlix-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749689084162:android:5fb81ca0f09ec2495cca1b",
+        "android_client_info": {
+          "package_name": "com.gerlixservices.flutter_app_gerlixservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749689084162-psa4cis0e0dpvto8mpplvra17a3sfvh9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gerlixservices.flutter_app_gerlixservices",
+            "certificate_hash": "fc0fd2adb5401bb928194c74df1cf9f2cba9f67b"
+          }
+        },
+        {
+          "client_id": "749689084162-91iqvceslo13u77omdcnq660ctlvl1u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgZi7-Nl1_5Twz9PICigUEFWLI-qm2fyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749689084162-91iqvceslo13u77omdcnq660ctlvl1u8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

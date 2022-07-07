@@ -1,0 +1,26 @@
+[
+    {
+        "type": "dairy",
+        "filename": "https://cdn3.iconfinder.com/data/icons/animals-105/150/icon_animal_vaca-512.png"
+    },
+    {
+        "type": "fruit",
+        "filename": "https://cdn3.iconfinder.com/data/icons/fruits-52/150/icon_fruit_melancia-512.png"
+    },
+    {
+        "type": "vegetable",
+        "filename": "https://cdn0.iconfinder.com/data/icons/green-world-colored/80/leaf-nature-green-enviroment-512.png"
+    },
+    {
+        "type": "bakery",
+        "filename": "https://cdn3.iconfinder.com/data/icons/christmas-and-chocolate/700/27-512.png"
+    },
+    {
+        "type": "vegan",
+        "filename": "https://cdn2.iconfinder.com/data/icons/spring-30/30/Tree-512.png"
+    },
+    {
+        "type": "meat",
+        "filename": "https://cdn0.iconfinder.com/data/icons/fastfood-31/64/chicken-fries-fast-food-fastfood-thigh-grill-512.png"
+    }
+]
