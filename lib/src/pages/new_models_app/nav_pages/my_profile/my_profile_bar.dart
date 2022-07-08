@@ -1,50 +1,38 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_app_gerlixservices/src/utils/my_colors.dart';
 import 'package:lottie/lottie.dart';
+import 'package:flutter_app_gerlixservices/src/pages/new_models_app/nav_pages/my_profile/body.dart';
 
 import '../../widgets/text_style/app_gerlix_text.dart';
 
-class MyProfile extends StatefulWidget {
-  const MyProfile({Key key}) : super(key: key);
+class ProfileScreen extends StatefulWidget {
+  const ProfileScreen({Key key}) : super(key: key);
 
   @override
-  State<MyProfile> createState() => _MyProfileState();
+  State<ProfileScreen> createState() => _ProfileScreenState();
 }
 
-class _MyProfileState extends State<MyProfile> {
+class _ProfileScreenState extends State<ProfileScreen> {
   @override
   Widget build(BuildContext context) {
-    return Center(
-      child: Stack(
-        children: [
-          Positioned(child: Center(
-              child:
-              _lottieAnimation())), //ANIMATION LOTTIE
-          Positioned(
-              top: 100,
-              child:
-              Container(
-                  margin: EdgeInsets.symmetric(horizontal: 80),
-                  child:
-                  AppGerlixText(
-                    text: 'Próximamente',
-                    size: 30,))), //TEXT PRÓXIMAMENTE
-        ],
+    return Scaffold(
+      appBar: AppBar(
+        backgroundColor: MyColors.primaryColorDark,
+        elevation: 0,
+        title:
+            Center(
+              child: Text(
+                  'GERLIX',
+                  style: TextStyle(
+                    fontSize: 35,
+                    color: Colors.white,
+                    fontFamily: 'GerlixFont',
+                  ),),
+            ),
       ),
+      body: Body(),
     );
   }
 
-  Widget _lottieAnimation() {
-    return Container(
-      margin: EdgeInsets.only(
-          top: 150,
-          bottom: MediaQuery.of(context).size.height * 0.17
-      ),
-      child: Lottie.asset(
-          'assets/json/rocket-foguete.json',
-          width: 1024,
-          height: 1024,
-          fit: BoxFit.fill
-      ),
-    );
-  }
+
 }

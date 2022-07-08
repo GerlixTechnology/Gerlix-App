@@ -73,11 +73,11 @@ class _HomeBarPageState extends State<HomeBarPage> with TickerProviderStateMixin
               child: AppBar(
                 automaticallyImplyLeading: false,
                 backgroundColor: Colors.white,
+                title:
+                Center(
+                  child: AppGerlixText(text: 'GERLIX'),
+                ),
                 actions: [
-                  Container(
-                      padding: EdgeInsets.only(top: 5),
-                      margin: EdgeInsets.symmetric(horizontal: 93),
-                      child: AppGerlixText(text: 'GERLIX',)),
                   _shoppingBag(),
                 ],
                 flexibleSpace: Column(
@@ -428,8 +428,6 @@ class _HomeBarPageState extends State<HomeBarPage> with TickerProviderStateMixin
   void refresh() {
     setState(() {}); // CTRL + S
   }
-
-
 
 
 }

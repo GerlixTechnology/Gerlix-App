@@ -166,10 +166,10 @@ class _ClientProductsListPageState extends State<ClientProductsListPage> {
 
   List pages = [ // Icons Bottom Navigation Bar
     HomeBarPage(),
-    FavoritesBarPage(),
     MyDashboardPage(),
+    FavoritesBarPage(),
     ShoppingCartBar(),
-    MyProfile()
+    ProfileScreen()
   ];
 
 

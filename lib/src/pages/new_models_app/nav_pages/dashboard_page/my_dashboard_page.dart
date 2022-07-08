@@ -50,11 +50,17 @@ class _MyDashboardPageState extends State<MyDashboardPage> with TickerProviderSt
           child: AppBar(
             automaticallyImplyLeading: false,
             backgroundColor: Colors.white,
+            title:
+            Center(child: Text(
+                'GERLIX',
+                style: TextStyle(
+                    fontSize: 30,
+                    color: Colors.black,
+                    fontFamily: 'GerlixFont'
+                  ),
+            ),
+            ),
             actions: [
-              Container(
-                  padding: EdgeInsets.only(top: 5),
-                  margin: EdgeInsets.symmetric(horizontal: 93),
-                  child: AppGerlixText(text: 'GERLIX',)),
               _shoppingBag(),
             ],
             flexibleSpace: Column(
